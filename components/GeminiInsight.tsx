@@ -93,7 +93,7 @@ export const GeminiInsight: React.FC<GeminiInsightProps> = ({ currentHour, curre
       <div className="mt-4 pt-3 border-t border-white/10 flex items-start gap-2">
          <AlertTriangle className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
          <span className="text-[10px] text-amber-200/80 leading-tight">
-           Remember: Stop immediately if you feel joint pain (Gout risk). Keep hydration >3L total.
+           Remember: Stop immediately if you feel joint pain (Gout risk). Keep hydration more 3L total.
          </span>
       </div>
     </div>
